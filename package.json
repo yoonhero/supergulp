@@ -29,7 +29,10 @@
     "gulp-webserver": "^0.1.0"
   },
   "dependencies": {
+    "babelify": "^10.0.0",
     "gulp-autoprefixer": "^8.0.0",
-    "gulp-csso": "^4.0.1"
+    "gulp-bro": "^2.0.0",
+    "gulp-csso": "^4.0.1",
+    "uglifyify": "^5.0.2"
   }
 }
