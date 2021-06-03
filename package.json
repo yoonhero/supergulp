@@ -1,0 +1,27 @@
+{
+  "name": "supergulp",
+  "version": "1.0.0",
+  "description": "learning gulp by building an awesome development environment",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoonhero/supergulp.git"
+  },
+  "author": "yoonhero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoonhero/supergulp/issues"
+  },
+  "homepage": "https://github.com/yoonhero/supergulp#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/register": "^7.4.4",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^4.0.1"
+  }
+}
